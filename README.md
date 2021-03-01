@@ -1,6 +1,6 @@
 # Gaia for Test Liquidity Module
 
-Please refer to [this link](https://github.com/tendermint/liquidity/tree/develop-milestone2) for Liquidity Module 
+Please refer to [this link](https://github.com/tendermint/liquidity) for Liquidity Module 
 
 Gaia is the first implementation of the Cosmos Hub, built using the [Cosmos SDK](https://github.com/cosmos/cosmos-sdk).  Gaia and other Cosmos Hubs allow fully sovereign blockchains to interact with one another using a protocol called [IBC](https://github.com/cosmos/ics/tree/master/ibc) that enables Inter-Blockchain Communication.
 
