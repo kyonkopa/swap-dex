@@ -20,7 +20,8 @@ Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidi
 | Requirement | Notes            |
 | ----------- | ---------------- |
 | Go version  | Go1.15 or higher |
-| Cosmos-SDK  | v0.42.1          |
+| based gaia  | v4.1.2           |
+| Cosmos-SDK  | v0.42.2          |
 | liquidity   | v1.2.x           |
 
 ### Get gravity-dex source code
@@ -100,12 +101,6 @@ $ make test
 ```
 
 ### Setup local testnet
-
-```bash
-# This will execute ./scripts/localnet.sh script to set up a single testnet locally
-# Note that ./data folder will contain all config, data, and keys
-$ make localnet
-```
 
 Example of setup local testnet with test validator, user account
 
