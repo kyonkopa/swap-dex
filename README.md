@@ -20,8 +20,8 @@ Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidi
 | Requirement | Notes            |
 | ----------- | ---------------- |
 | Go version  | Go1.15 or higher |
-| based gaia  | v4.1.2           |
-| Cosmos-SDK  | v0.42.2          |
+| based gaia  | v4.2.0           |
+| Cosmos-SDK  | v0.42.3          |
 | liquidity   | v1.2.x           |
 
 ### Get gravity-dex source code
