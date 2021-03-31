@@ -22,7 +22,7 @@ Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidi
 | Go version  | Go1.15 or higher |
 | based gaia  | v4.2.0           |
 | Cosmos-SDK  | v0.42.3          |
-| liquidity   | v1.2.x           |
+| liquidity   | v1.2.3           |
 
 ### Get gravity-dex source code
 
