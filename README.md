@@ -1,4 +1,4 @@
-# 🪐Gravity-Dex for testnets ( Gaia + Liquidity Module )
+# 🪐Gravity-DEX for testnets ( Gaia + Liquidity Module )
 
 Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidity) module functionality added to [cosmos/gaia](https://github.com/cosmos/gaia)
 
@@ -11,7 +11,7 @@ Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidi
  - [Swagger HTTP API doc](https://app.swaggerhub.com/apis-docs/bharvest/cosmos-sdk_liquidity_module_rest_and_g_rpc_gateway_docs)
  - [godoc](https://pkg.go.dev/github.com/tendermint/liquidity)
  - [Client doc](https://github.com/tendermint/liquidity/tree/develop/doc/client.md)
- 
+
 
 ## Installation
 
@@ -20,9 +20,9 @@ Implementation with [tendermint/liquidity](https://github.com/tendermint/liquidi
 | Requirement | Notes            |
 | ----------- | ---------------- |
 | Go version  | Go1.15 or higher |
-| based gaia  | v4.2.0           |
-| Cosmos-SDK  | v0.42.3          |
-| liquidity   | v1.2.3           |
+| based gaia  | v4.2.1           |
+| Cosmos-SDK  | v0.42.4          |
+| liquidity   | v1.2.4           |
 
 ### Get gravity-dex source code
 
