@@ -5,6 +5,7 @@ go 1.15
 require (
 	github.com/cosmos/cosmos-sdk v0.42.4
 	github.com/gorilla/mux v1.8.0
+	github.com/grpc-ecosystem/grpc-gateway/v2 v2.6.0 // indirect
 	github.com/pkg/errors v0.9.1
 	github.com/rakyll/statik v0.1.7
 	github.com/spf13/cast v1.3.1
